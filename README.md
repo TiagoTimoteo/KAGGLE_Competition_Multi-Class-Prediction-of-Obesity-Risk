@@ -13,15 +13,6 @@ The goal of this competition is to develop predictive models that can accurately
 - `submissions/`: Location to store model predictions submitted to the competition.
 - `README.md`: This README file providing an overview of the project and competition.
 
-## How to Use
-
-To explore this Kaggle competition project, follow these steps:
-
-1. Clone this repository to your local environment using the `git clone` command.
-2. Explore the Jupyter notebooks in the `notebooks/` folder to view the code and analysis performed during the competition.
-3. Review the datasets in the `data/` folder to understand the features and labels used for model training and evaluation.
-4. Check the `submissions/` folder for any model predictions submitted to the competition.
-
 ## Kaggle Competition Link
 
 [Playground Series - Season 4, Episode 2, Multi-Class Prediction of Obesity Risk](https://www.kaggle.com/c/playground-series-04-obesity-risk)
