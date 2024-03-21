@@ -6,12 +6,22 @@ This repository contains the code and resources developed as part of the "Playgr
 
 The goal of this competition is to develop predictive models that can accurately classify individuals into different levels of obesity risk. The provided dataset typically includes information about various health-related factors such as age, weight, height, physical activity level, dietary habits, among others. Based on these features, participants are tasked with creating models that classify individuals into multiple obesity risk classes (e.g., low risk, moderate risk, high risk).
 
-## Repository Structure
+## Project Structure
 
-- `data/`: Folder containing the datasets provided for the competition.
-- `notebooks/`: Directory with Jupyter notebooks containing the code used for data exploration, preprocessing, model development, and evaluation.
-- `submissions/`: Location to store model predictions submitted to the competition.
-- `README.md`: This README file providing an overview of the project and competition.
+- Import Libraries
+- Data Acquisition
+- Data Wrangling/Quick Overview
+- EDA with Data Vizualization
+  - Target Analysis
+  - Individual Numerical Plots
+  - Individual Categorical Plots
+  - Combined Numerical Plots
+- Feature Engeneiring
+- Model
+  - Logistic Regression
+  - Decission Tree
+  - K-Nearest Neighbours
+- Submission
 
 ## Kaggle Competition Link
 
